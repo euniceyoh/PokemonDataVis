@@ -11,7 +11,7 @@
 <img src="Qt-Snapshots/Individual-Character.png" height=400/>
 
 ### Ex: Pokemon Names Y-Z
-<img src="Qt-Snapshots/Character-Names-Y-Z.png" height=300/> 
+<img src="Qt-Snapshots/Character-Names-Y-Z.png" height=400/> 
 
 ### Ex: Top Ten Attack Pokemon
-<img src="Qt-Snapshots/Top-10-Attack-Characters.png" height=300/>
+<img src="Qt-Snapshots/Top-10-Attack-Characters.png" height=400/>
